@@ -1,5 +1,5 @@
 
-# loading and installing the needed packages.
+# loading and installing the needed packages
 pacman::p_load(jsonlite, rworldmap, tidyverse, shinycssloaders, glue)
 
 # Options for Spinner
